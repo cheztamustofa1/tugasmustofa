@@ -1,0 +1,124 @@
+navbar {
+	font: playfairdisplay reguler;
+	font-size: 14px;
+}
+
+<section>
+h1 {
+	font: playfairdisplay black;
+	font-size: 32px;
+}
+
+p {
+	font: roboto light;
+	font-size: 14px;
+}
+
+button {
+	font: hammersmithone reguler;
+	font-size: 16px;
+}
+</section>
+
+<section>
+h3 {
+	font: playfairdisplay black;
+	font-size: 22px;
+}
+
+p {
+	font: roboto light;
+	font-size: 14px;
+}
+
+button {
+	font: hammersmithone reguler;
+	font-size: 16px;
+}
+
+</section>
+
+<section>
+h1 {
+	font: playfairdisplay bold;
+	font-size: 22px;
+}
+
+
+</section>
+
+<section>
+h3 {
+	font: roboto light;
+	font-size: 14px;
+}
+</section>
+
+<section>
+h1 {
+	font: playfairdisplay bold;
+	font-size: 22px;
+}
+
+h6 {	
+	font: playfairdisplay reguler;
+	font-size: 14px;
+}
+
+button {
+	font: hammersmithone reguler;
+	font-size: 16px;
+}
+
+</section>
+
+<section>
+h2 	{	
+	font: playfairdisplay bold;
+	font-size: 22px;
+}
+
+a {
+	font: roboto light;
+	font-size: 14px;
+}
+
+button {
+	font: hammersmithone reguler;
+	font-size: 16px;
+}
+</section>
+
+<section>
+h1 { 
+	font: playfairdisplay bold;
+	font-size: 100px;
+}
+
+p {	
+	font: playfairdisplay reguler;
+	size: 16px;
+}
+
+h5 {
+	font: roboto black;
+	font-size: 14px;	
+}
+
+p  {
+	font: roboto light;
+	font-size: 14px;
+}
+</section>
+
+<section>
+h2 	{	
+	font: playfairdisplay bold;
+	font-size: 22px;
+}	
+button {
+	font: hammersmithone reguler;
+	font-size: 16px;
+}
+
+</section>
